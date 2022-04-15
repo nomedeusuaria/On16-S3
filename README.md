@@ -1,14 +1,14 @@
 # Lógica - Variáveis, Tipos de Dados e Operadores :blossom:
 
-##### **Semana 3 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**
+### **Semana 3 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**
 
-###### Aprendizado :books:
+#### Aprendizado :books:
 
 - Função e escopo
 
 - Estrutura condicional
 
-###### Proposta de exercícios :file_folder:
+#### Proposta de exercícios :file_folder:
 
 1 - Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
 
