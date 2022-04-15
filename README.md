@@ -4,7 +4,7 @@
 
 #### ***Aprendizado*** :books:
 
-- Função e escopo
+- Funções e escopo
 
 - Estrutura condicional
 
